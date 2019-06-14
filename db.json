@@ -1,0 +1,20 @@
+{
+  "alumno" : [
+    {
+      "nombre":"A",
+      "grado": "B",
+      "carra": "C"
+    },
+    {
+      "nombre":"D",
+      "grado": "E",
+      "carra": "F"
+    }
+  ],
+  "materias":[
+    {
+      "clave":"1",
+      "nombre":"as"
+    }
+  ]
+}
